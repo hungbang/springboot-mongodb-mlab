@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: springboot-mongod
+  data:
+    mongodb:
+      uri: mongodb+srv://root:12345@cluster0.bjbuq.mongodb.net/springboot_mongodb?retryWrites=true&w=majority
+
+

@@ -1,0 +1,5 @@
+springboot/mongodb/entity/User.class
+springboot/mongodb/repository/UserRepository.class
+springboot/mongodb/SpringBootMongodbApplication.class
+springboot/mongodb/service/UserService.class
+springboot/mongodb/rest/UserResource.class
